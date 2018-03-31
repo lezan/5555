@@ -1,8 +1,0 @@
-﻿  random.cpp
-d:\google drive\magistrale\primo anno\ti - teoria dell'informazione\laboratorio\esercizi\ti4\ti4\random.cpp(139): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
-  TI4.cpp
-d:\google drive\magistrale\primo anno\ti - teoria dell'informazione\laboratorio\esercizi\ti4\ti4\ti4.cpp(24): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
-d:\google drive\magistrale\primo anno\ti - teoria dell'informazione\laboratorio\esercizi\ti4\ti4\ti4.cpp(59): warning C4244: 'inizializzazione': conversione da 'std::chrono::system_clock::rep' a 'unsigned int'. Possibile perdita di dati.
-d:\google drive\magistrale\primo anno\ti - teoria dell'informazione\laboratorio\esercizi\ti4\ti4\ti4.cpp(282): warning C4244: 'argomento': conversione da 'double' a 'uint32_t'. Possibile perdita di dati.
-  Generazione del codice in corso...
-  TI4.vcxproj -> D:\Google Drive\Magistrale\Primo anno\TI - Teoria dell'Informazione\laboratorio\esercizi\TI4\Debug\TI4.exe

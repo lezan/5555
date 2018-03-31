@@ -1,5 +1,0 @@
-﻿  TI1.cpp
-d:\google drive\magistrale\primo anno\ti - teoria dell'informazione\esercizi laboratorio\ti1\ti1\ti1.cpp(20): warning C4273: 'log2': collegamento dll non coerente
-  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math.h(517): note: vedere la precedente definizione di 'log2'
-     Creazione della libreria D:\Google Drive\Magistrale\Primo anno\TI - Teoria dell'Informazione\esercizi laboratorio\TI1\Debug\TI1.lib e dell'oggetto D:\Google Drive\Magistrale\Primo anno\TI - Teoria dell'Informazione\esercizi laboratorio\TI1\Debug\TI1.exp
-  TI1.vcxproj -> D:\Google Drive\Magistrale\Primo anno\TI - Teoria dell'Informazione\esercizi laboratorio\TI1\Debug\TI1.exe
